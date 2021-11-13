@@ -1,0 +1,106 @@
+[
+  {
+    "category": "animals",
+    "images": [
+      "cat.jpg",
+      "bird.jpg",
+      "chick.jpg",
+      "chicken.jpg",
+      "dog.jpg",
+      "dolphin.jpg",
+      "fish.jpg",
+      "giraffe.jpg"
+    ]
+  },
+  {
+    "category": "clothes",
+    "images": [
+      "blouse.jpg",
+      "boot.jpg",
+      "coat.jpg",
+      "dress.jpg",
+      "pants.jpg",
+      "shirt.jpg",
+      "shoe.jpg",
+      "skirt.jpg"
+    ]
+  },
+  {
+    "category": "emotions",
+    "images": [
+      "angry.jpg",
+      "happy.jpg",
+      "laugh.jpg",
+      "sad.jpg",
+      "scared.jpg",
+      "smile.jpg",
+      "surprised.jpg",
+      "tired.jpg"
+    ]
+  },
+  {
+    "category": "actions",
+    "images": [
+      "dance.jpg",
+      "dive.jpg",
+      "fly.jpg",
+      "walk.jpg",
+      "jump.jpg",
+      "hug.jpg",
+      "cry.jpg",
+      "draw.jpg"
+    ]
+  },
+  {
+    "category": "proffesions",
+    "images": [
+      "builder.jpg",
+      "doctor.jpg",
+      "firefighter.jpg",
+      "geologist.jpg",
+      "pilot.jpg",
+      "policeman.jpg",
+      "scientists.jpg",
+      "teacher.jpg"
+    ]
+  },
+  {
+    "category": "animals2",
+    "images": [
+      "horse.jpg",
+      "lion.jpg",
+      "mouse.jpg",
+      "pig.jpg",
+      "rabbit.jpg",
+      "sheep.jpg",
+      "frog.jpg",
+      "turtle.jpg"
+    ]
+  },
+  {
+    "category": "actions2",
+    "images": [
+      "fishing.jpg",
+      "open.jpg",
+      "play.jpg",
+      "point.jpg",
+      "ride.jpg",
+      "run.jpg",
+      "sing.jpg",
+      "skip.jpg"
+    ]
+  },
+  {
+    "category": "fruits",
+    "images": [
+      "banana.jpg",
+      "blackberry.jpg",
+      "blueberry.jpg",
+      "lime.jpg",
+      "orange.jpg",
+      "peach.jpg",
+      "strawberry.jpg",
+      "watermelon.jpg"
+    ]
+  }
+]

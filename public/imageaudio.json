@@ -1,0 +1,106 @@
+[
+  {
+    "category": "animals",
+    "audio": [
+      "cat.mp3",
+      "bird.mp3",
+      "chick.mp3",
+      "chicken.mp3",
+      "dog.mp3",
+      "dolphin.mp3",
+      "fish.mp3",
+      "giraffe.mp3"
+    ]
+  },
+  {
+    "category": "clothes",
+    "audio": [
+      "blouse.mp3",
+      "boot.mp3",
+      "coat.mp3",
+      "dress.mp3",
+      "pants.mp3",
+      "shirt.mp3",
+      "shoe.mp3",
+      "skirt.mp3"
+    ]
+  },
+  {
+    "category": "emotions",
+    "audio": [
+      "angry.mp3",
+      "happy.mp3",
+      "laugh.mp3",
+      "sad.mp3",
+      "scared.mp3",
+      "smile.mp3",
+      "surprised.mp3",
+      "tired.mp3"
+    ]
+  },
+  {
+    "category": "actions",
+    "audio": [
+      "dance.mp3",
+      "dive.mp3",
+      "fly.mp3",
+      "walk.mp3",
+      "jump.mp3",
+      "hug.mp3",
+      "cry.mp3",
+      "draw.mp3"
+    ]
+  },
+  {
+    "category": "proffesions",
+    "audio": [
+      "builder.mp3",
+      "doctor.mp3",
+      "firefighter.mp3",
+      "geologist.mp3",
+      "pilot.mp3",
+      "policeman.mp3",
+      "scientists.mp3",
+      "teacher.mp3"
+    ]
+  },
+  {
+    "category": "animals2",
+    "audio": [
+      "horse.mp3",
+      "lion.mp3",
+      "mouse.mp3",
+      "pig.mp3",
+      "rabbit.mp3",
+      "sheep.mp3",
+      "frog.mp3",
+      "turtle.mp3"
+    ]
+  },
+  {
+    "category": "actions2",
+    "audio": [
+      "fish.mp3",
+      "open.mp3",
+      "play.mp3",
+      "point.mp3",
+      "ride.mp3",
+      "run.mp3",
+      "sing.mp3",
+      "skip.mp3"
+    ]
+  },
+  {
+    "category": "fruits",
+    "audio": [
+      "banana.mp3",
+      "blackberry.mp3",
+      "blueberry.mp3",
+      "lime.mp3",
+      "orange.mp3",
+      "peach.mp3",
+      "strawberry.mp3",
+      "watermelon.mp3"
+    ]
+  }
+]
